@@ -1,5 +1,5 @@
 ### Hello!👋
-My name's Karin. I work with **machine learning** and **data analysis**
+My name's Karin. I write projects in machine learning and code stuff.
 
 ![Computer Frustrations](https://github.com/user-attachments/assets/e8a87367-2fb6-4568-a7cd-dc74ebe35b78)
 
