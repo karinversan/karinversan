@@ -7,7 +7,6 @@ My name's Karin. I write projects in **machine learning** and **code** stuff.
 
 
 - 🔬 I'm interested in **bioinformatics** and **computational biology**
-- 🚀 I’m currently working on: **Drug Interaction Intelligence Platform**
 
 ### Socials
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=white)](https://t.me/some1inbetween)
