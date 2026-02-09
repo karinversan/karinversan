@@ -7,7 +7,7 @@ My name's Karin. I write projects in **machine learning** and **code** stuff.
 
 
 - 🔬 I'm interested in **bioinformatics** and **computational biology**
-- Currently working on Sign Language translator with voiceover
+- :computer: Currently working on Sign Language translator with voiceover
 
 ### Socials
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=white)](https://t.me/some1inbetween)
