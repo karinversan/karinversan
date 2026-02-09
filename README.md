@@ -9,5 +9,7 @@ My name's Karin. I write projects in **machine learning** and **code** stuff.
 - 🔬 I'm interested in **bioinformatics** and **computational biology**
 - :computer: Currently working on Sign Language translator with voiceover
 
+Open to work and collaboration - feel free to reach out!
+
 ### Socials
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=white)](https://t.me/some1inbetween)
