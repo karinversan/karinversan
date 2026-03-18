@@ -7,7 +7,7 @@ My name's Karin. I write projects in **machine learning** and **code** stuff.
 
 
 - 🔬 I'm interested in **bioinformatics** and **computational biology**
-- :computer: Currently working on Sign Language translator with voiceover
+- :computer: Currently working on *something...*
 
 
 
