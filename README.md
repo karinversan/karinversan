@@ -8,6 +8,6 @@
 
 
 
-### Socials
+### My socials
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=white)](https://t.me/some1inbetween)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=maildotru&logoColor=white)](mailto:karinversan@gmail.com)
