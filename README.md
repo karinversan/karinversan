@@ -1,4 +1,4 @@
-### Hi!👋
+### Hi!
 
 
 <img src="https://github.com/user-attachments/assets/e8a87367-2fb6-4568-a7cd-dc74ebe35b78" alt="Computer Frustrations" width="300">
